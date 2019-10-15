@@ -14,3 +14,5 @@
 This dataset contains an Year wise Record of flood damage in India! It might help in analysis of the Nature of flood Patterns!
 
 * [Extended Reconstructed Sea Surface Temperature v3b](ncdc.noaa.gov/data-access/marineocean-data/extended-reconstructed-sea-surface-temperature-ersst-v3b): Global monthly sea surface temperature analysis from 1854 in ASCII.
+
+* [CO2 PPM - Trends in Atmospheric Carbon Dioxide](http://datahub.io/core/co2-ppm) CO2 levels sourced from the US Government's Earth System Research Laboratory, both Mauna Loa and Global Average series provided
